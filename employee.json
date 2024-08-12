@@ -1,0 +1,22 @@
+{
+  "employee": [
+    {
+      "id": "102",
+      "firstname": "ILIYASH",
+      "lastname": "AHAMAD RAMPUR",
+      "phone": "8507579010",
+      "email": "iliyashgkp@gmail.com",
+      "department": "Admin",
+      "salary": "25478"
+    },
+    {
+      "id": "101",
+      "firstname": "ABBAS",
+      "lastname": "Chaubey",
+      "phone": "8507579010",
+      "email": "a@gmail.com",
+      "department": "Hr",
+      "salary": "54778"
+    }
+  ]
+}
